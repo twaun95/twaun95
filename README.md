@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/kotlin-FFCA28?style=flat-square&logo=Kotlin&logoColor=7f52ff"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twaun95&show_icons=true&theme=radical&bg_color=DEG&title_color=#d1d8e6)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twaun95&show_icons=true&theme=radical&bg_color=DEG&title_color=5a82d1)
