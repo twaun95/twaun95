@@ -1,5 +1,4 @@
-### 👋 Thanks for coming!
-I'm a Android Developer
+### 👋 Thanks for coming 
 
 <!--
 **twaun95/twaun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
